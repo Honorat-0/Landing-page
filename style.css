@@ -116,7 +116,9 @@ h1 {
 /* quote */
 
 .quote {
-    background-color: #E5E7EB
+    margin-top: 100px;
+    background-color: #E5E7EB;
+    padding: 100px 320px;
 }
 
 blockquote {
@@ -124,6 +126,7 @@ blockquote {
     font-weight: 300;
     color: #1F2937;
     font-style: italic;
+    margin: 0;
 }
 
 #author {
@@ -131,6 +134,7 @@ blockquote {
     font-weight: 700;
     text-align: right;
     color: #1F2937;
+    margin: 0 48px;
 }
 
 /* call to action */
